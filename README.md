@@ -16,8 +16,7 @@ A plugin that enables you send SMS using Twilio
 
 3. Got to the plugin settings page and update your Twilio ACCOUNT SID and AUTH TOKEN:
 
-
-https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fpaper-attachments.dropbox.com%2Fs_EC2901119B780F4961BDAE0A7F7E7C8FF7BB70BB3D2F4BDDD0EA8004DF5B241E_1599165833809_image.png&hmac=d3dzjRk5iAX04%2Fqqy3m0uYZ73L%2BmfdgISZbmCi068yg%3D
+![Setting Page](https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fpaper-attachments.dropbox.com%2Fs_EC2901119B780F4961BDAE0A7F7E7C8FF7BB70BB3D2F4BDDD0EA8004DF5B241E_1599165833809_image.png&hmac=d3dzjRk5iAX04%2Fqqy3m0uYZ73L%2BmfdgISZbmCi068yg%3D)
 
 Then hit the `Save Changes` button once you are done.
 
