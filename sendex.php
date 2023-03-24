@@ -204,7 +204,7 @@ class Sendex
      * @access   private
      */
     public static function DisplayError($message = "Aww!, there was an error.") {
-        add_action( 'adminNotices', function() use($message) {
+        add_action( 'admin_notices', function() use($message) {
             self::adminNotice($message, false);
         });
     }
@@ -216,7 +216,7 @@ class Sendex
      * @access   private
      */
     public static function DisplaySuccess($message = "Successful!") {
-        add_action( 'adminNotices', function() use($message) {
+        add_action( 'admin_notices', function() use($message) {
             self::adminNotice($message, true);
         });
     }
